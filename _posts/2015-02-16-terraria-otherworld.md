@@ -1,11 +1,11 @@
 ---
   layout: post
-  title: Intro video
+  title: "Terraria: Otherworld"
 ---
 
 <p>Post with a video to demonstrate fluid videos.</p>
 
 <div class="video-wrapper">
-  <iframe width="600" height="400" frameborder="none" src="http://www.youtube.com/embed/4aeETEoNfOg" allowfullscreen="allowfullscreen="> </iframe>
+  <iframe width="600" height="400" frameborder="none" src="http://www.youtube.com/embed/RCXk_ZCgxJI" allowfullscreen="allowfullscreen="> </iframe>
 </div>
 
