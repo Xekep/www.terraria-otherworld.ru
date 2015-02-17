@@ -13,6 +13,8 @@
 <a class="fancybox" rel="gallery1" href="{{site.baseurl}}images/screenshots/screenshot_1.jpg" title="Terraria Otherworld">
 	<img src="{{site.baseurl}}images/screenshots/screenshot_1m.jpg" alt="" />
 </a>
+</div>
+<div align="center">
 <a class="fancybox" rel="gallery1" href="{{site.baseurl}}images/screenshots/screenshot_2.jpg" title="Terraria Otherworld">
 	<img src="{{site.baseurl}}images/screenshots/screenshot_2m.jpg" alt="" />
 </a>
