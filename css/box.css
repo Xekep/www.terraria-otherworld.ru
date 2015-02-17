@@ -8,22 +8,20 @@
 	font-family: 'Molengo', Arial, Helvetica, sans-serif;
 }
 
-
-
-h1 {
+#room h1 {
 	padding: 40px;
 	font-size: 52px;
 	text-transform: uppercase;
 }
 
-p {
+#room p {
 	padding: 10px 40px 10px 40px;
 	
 	line-height: 120%;
 	font-size: 36px;
 }
 
-a {
+#room a {
 	color: rgb(220,200,150);
 }
 
