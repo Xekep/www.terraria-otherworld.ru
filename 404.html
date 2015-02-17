@@ -3,6 +3,30 @@
   title: 404
 ---
 
-<div id="error404">
-    <p>Sorry, this page does not exist.</p>
-</div>
+<body data-twttr-rendered="true">
+		<div id="world" style="-webkit-perspective-origin: 38.0158519944704% 90.0569055981281%; perspective-origin: 38.0158519944704% 90.0569055981281%;">
+			<div id="room">
+				<!-- The back wall which holds our content -->
+				<div id="back" style="z-index: 0;">
+					<h1>404 - Page Not Found</h1>
+					<p>
+						Страница не найдена.
+					</p>
+				</div>
+				
+				<!-- The translucent front wall -->
+				<div id="front" style="z-index: 5;"></div>
+				
+				<!-- The remaining walls of the box -->
+				<div id="wall-left" style="z-index: 1;"></div>
+				<div id="wall-right" style="z-index: 2;"></div>
+				<div id="wall-top" style="z-index: 3;"></div>
+				<div id="wall-bottom" style="z-index: 4;"></div>
+				
+				<!-- A plane below the box which is used to simulate a shadow -->
+				<div id="shadow"></div>
+			</div>
+		</div>
+		
+		<script src="js/holobox.js"></script>
+</body>
