@@ -15,7 +15,7 @@
     <article>
       <header>
         <h1><a href="{% unless site.baseurl == "/" %}{{ site.baseurl }}{% endunless %}{{ post.url }}">{{ post.title }}</a></h1>
-        <p>Дата публикации: {{ post.date | date: "%B %d, %Y" }} | Автор: {% if post.author %}{{ post.author }}{% else %}Администратор{% endif %}</p>
+        <p>Дата публикации: {{ post.date | date: "%B %d, %Y" }}, Автор: {% if post.author %}{{ post.author }}{% else %}Администратор{% endif %}</p>
       </header>
       <div class="entry-content">
         {{ post.content }}
