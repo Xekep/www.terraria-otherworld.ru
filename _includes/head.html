@@ -6,7 +6,7 @@
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{site.baseurl}}css/screen.css" type="text/css" media="screen">
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords | join: ', ' }}">{% endif %}
   <!--[if lte IE 9]>
     <script src="{{ site.baseurl}}js/respond.min.js" type="text/javascript"</script>
   <![endif]-->
