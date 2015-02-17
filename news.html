@@ -36,10 +36,14 @@
 
   </div>
   <div id="blog-nav">
-    <h4>Welcome to the {X} blog</h4>
-    <p>The latest and greatest on {X}. <a href="https://twitter.com/your-handle">Follow us on Twitter</a> or <a href="http://yourdomain.com/atom.xml">subscribe the RSS feed</a> for updates.</p>
+    <h4>Наша группа вконтакте</h4>
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+    <div id="vk_groups"></div>
+    <script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "300", height: "400", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 87632609);
+</script>
 
-    <h4>Post archive</h4>
+    <h4>Архив новостей</h4>
     <ul class="bordered-list">
       {% for post in site.posts %}
       <li>
