@@ -5,7 +5,7 @@
   keywords: "Terraria Otherworld, дата выхода"
 ---
 
-<p>Post with a video to demonstrate fluid videos.</p>
+<p>...</p>
 <div align="center">
 <a class="fancybox" rel="gallery1" href="{{site.baseurl}}images/screenshots/screenshot_0.jpg" title="Terraria Otherworld">
 	<img src="{{site.baseurl}}images/screenshots/screenshot_0m.jpg" alt="" />
