@@ -27,21 +27,33 @@
   </div>
 </div>
 
-<div id="links">
-    <a href="images/banana.jpg" title="Banana">
-        <img src="images/thumbnails/banana.jpg" alt="Banana">
-    </a>
-    <a href="images/apple.jpg" title="Apple">
-        <img src="images/thumbnails/apple.jpg" alt="Apple">
-    </a>
-    <a href="images/orange.jpg" title="Orange">
-        <img src="images/thumbnails/orange.jpg" alt="Orange">
-    </a>
-</div>
-
-<script src="{{ site.baseurl}}/plugins/gallery/js/blueimp-gallery.min.js"></script>
+<script src="{{site.baseurl}}/plugins/gallery/js/blueimp-gallery.min.js"></script>
 <script>
   $(function () {
+      var carouselLinks = [
+              {
+                href: '{{site.baseurl}}/images/screenshots/screenshot_0.jpg',
+                title: 'Screenshot #1'
+              },
+              {
+                href: '{{site.baseurl}}/images/screenshots/screenshot_1.jpg',
+                title: 'Screenshot #2'
+              },
+              {
+                href: '{{site.baseurl}}/images/screenshots/screenshot_2.jpg',
+                title: 'Screenshot #3'
+              },
+              {
+                href: '{{site.baseurl}}/images/screenshots/screenshot_3.jpg',
+                title: 'Screenshot #4'
+              }];
+      blueimp.Gallery(carouselLinks, {
+          container: '#blueimp-image-carousel',
+          carousel: true
+      });
+        
+        
+    /*
     blueimp.Gallery(
         document.getElementById('links').getElementsByTagName('a'),
         {
@@ -49,5 +61,6 @@
             carousel: true
         }
     );
+    */
   });
 </script>
