@@ -8,7 +8,9 @@ a, div {
 	font: inherit;
 	vertical-align: baseline;
 }
-
+a.fancybox:hover {
+	background: transparent;
+}
 .fancybox-wrap,
 .fancybox-skin,
 .fancybox-outer,
