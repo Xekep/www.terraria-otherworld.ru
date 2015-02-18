@@ -117,7 +117,7 @@ a, div {
 	z-index: 8040;
 }
 
-.fancybox-nav {
+div .fancybox-nav {
 	position: absolute;
 	top: 0;
 	width: 40%;
