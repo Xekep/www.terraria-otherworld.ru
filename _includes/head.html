@@ -17,11 +17,11 @@
   <!-- Social Share Kit CSS -->
   <link rel="stylesheet" href="{{ site.baseurl}}/plugins/social-share-kit/css/social-share-kit.css" type="text/css">
   <!-- Social Share Kit JS -->
-  <script type="text/javascript" src="your-path/social-share-kit.js"></script>
+  <script type="text/javascript" src="{{ site.baseurl}}/plugins/social-share-kit/js/social-share-kit.js"></script>
   <script type="text/javascript">
+  	  SocialShareKit.init();
 	  $(document).ready(function() {
 		  $(".fancybox").fancybox();
-		  SocialShareKit.init();
 	  });
   </script>
   <!--[if lte IE 9]>
@@ -30,9 +30,8 @@
 </head>
 <!-- Left & centered positioning SSK -->
 <div class="ssk-sticky ssk-center ssk-lg ssk-left">
+  <a href="" class="ssk ssk-vk"></a>
   <a href="" class="ssk ssk-facebook"></a>
   <a href="" class="ssk ssk-twitter"></a>
   <a href="" class="ssk ssk-google-plus"></a>
-  <a href="" class="ssk ssk-tumblr"></a>
-  <a href="" class="ssk ssk-email"></a>
 </div>
