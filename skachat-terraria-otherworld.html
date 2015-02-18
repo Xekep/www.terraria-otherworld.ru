@@ -14,10 +14,40 @@
 <div class="page-type-subnav">
   <div id="blog-single">
     <article>
-      <div align="center"><a class="fancybox" rel="gallery1" href="{{site.baseurl}}/images/TOW-Logo-Small.png" title="Logo">
-        <img src="{{site.baseurl}}/images/TOW-Logo-Small.png" alt="" />
-      </a></div>
+      <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+        <div class="slides"></div>
+        <h3 class="title"></h3>
+        <a class="prev">‹</a>
+        <a class="next">›</a>
+        <a class="play-pause"></a>
+        <ol class="indicator"></ol>
+      </div>
       <p>Вы сможете <b>скачать Terraria: Otherworld</b> на этой странице, как только разработчики выпустят PC версию игры. На данный момент очень мало информации о самой игре и нет информации о дате релиза.</p>
     </article>
   </div>
 </div>
+
+<div id="links">
+    <a href="images/banana.jpg" title="Banana">
+        <img src="images/thumbnails/banana.jpg" alt="Banana">
+    </a>
+    <a href="images/apple.jpg" title="Apple">
+        <img src="images/thumbnails/apple.jpg" alt="Apple">
+    </a>
+    <a href="images/orange.jpg" title="Orange">
+        <img src="images/thumbnails/orange.jpg" alt="Orange">
+    </a>
+</div>
+
+<script src="{{ site.baseurl}}/plugins/gallery/js/blueimp-gallery.min.js"></script>
+<script>
+  $(function () {
+    blueimp.Gallery(
+        document.getElementById('links').getElementsByTagName('a'),
+        {
+            container: '#blueimp-gallery-carousel',
+            carousel: true
+        }
+    );
+  });
+</script>
