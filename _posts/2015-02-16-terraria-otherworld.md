@@ -31,5 +31,3 @@
 <div class="video-wrapper">
   <iframe width="600" height="400" frameborder="none" src="http://www.youtube.com/embed/RCXk_ZCgxJI" allowfullscreen="allowfullscreen="> </iframe>
 </div>
-
-Источник <a href="http://terrariaotherworld.com/" rel="nofollow">http://terrariaotherworld.com/</a>
