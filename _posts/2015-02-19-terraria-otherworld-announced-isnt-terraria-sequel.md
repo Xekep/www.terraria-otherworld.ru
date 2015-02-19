@@ -1,7 +1,7 @@
 ---
   layout: post
   title: "Terraria: Otherworld не является сиквелом Terraria"
-  description: ""
+  description: "Otherworld является не продолжением, а ответвлением оригинальной Terraria 2011 года."
   keywords: "Terraria Otherworld, дата выхода"
 ---
 
