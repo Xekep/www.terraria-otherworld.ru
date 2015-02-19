@@ -16,6 +16,6 @@
 <div align="center"><iframe src="http://widgets.ign.com/video/embed/content.html?url=http://www.ign.com/videos/2015/02/17/terraria-otherworld-announcement-teaser-trailer" width="468" height="263" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
 
 <p>На видео можно увидеть тёмную, более научно-фантастическую атмосферу, в отличии от оригинальной Terraria с 
-её фэнтези RPG сеттингом. Тёмные краски мира напоминают искажение оригинальной игры и результат победы злых сил над девственным миром Otherworld.</p>
+её фэнтезийным RPG сеттингом. Тёмные краски мира напоминают искажение оригинальной игры и результат победы злых сил над девственным миром Otherworld.</p>
 
 <p>В настоящее время <b>Terraria: Otherworld</b> находится в стадии пре-альфа версии, и ни дата релиза или другие детали пока не известны.</p>
