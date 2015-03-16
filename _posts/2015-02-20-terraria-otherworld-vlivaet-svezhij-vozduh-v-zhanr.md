@@ -8,16 +8,21 @@
 Добрый день, поклонники Террарии!
 
 
+
 Команды Re-Logic и Engine Software хотели бы занять пару минут, для важного объявления. Как мы намекали ранее, в нашем расплывчатом "тизере", мы работаем над новым проэктом, и нет, ни над Terraria 2, ни над чем-либо ещё, о чём ранее упоминалось.
+
 
 
 Ну, что ж, пришло время откровений. Без лишних церемоний, мы представляем Вашему вниманию...
 
 
+
 <div align="center"><img src="{{site.baseurl}}/images/TOW-Logo-Small.png" alt="" /></div>
 
 
+
 Расширение очень популярной песочницы Terraria - Terraria: Otherworld.
+
 
 
 Расположенный в другом измерении вселенной Terraria, Terraria: Otherworld посылает игрока в битву не на жизнь, а на смерть, чтобы восстановить некогда прекрасный мир - сейчас истощённый злыми силами, ввергнувшими его во мрак - в своём первозданном великолепии. Вместе с отчаянной командой выживших, сможете ли вы, используя множество оружия, магию, и даже сам мир, сорвать планы этому невидимому злу?
@@ -40,7 +45,7 @@ Re-Logic и Engine Software будут выступать на Game Developers C
 
 __________
 
-<div align="center"><b>Terraria: Otherworld Сайты и социальные медиа</b></div>
+<b>Terraria: Otherworld Сайты и социальные медиа</b>
 
 Terraria: Otherworld Официальный сайт: <a href="http://www.terrariaotherworld.com/" rel="nofollow">TerrariaOtherworld.com</a>
 
@@ -51,7 +56,7 @@ Terraria: Otherworld Twitter: <a href="http://twitter.com/tow_game" rel="nofollo
 
 __________
 
-<div align="center"><p><b>Re-Logic социальные медиа</b></p></div>
+<p><b>Re-Logic социальные медиа</b></p>
 
 <a href="http://facebook.com/ReLogicGames" rel="nofollow">Re-Logic Facebook Page</a>
 
