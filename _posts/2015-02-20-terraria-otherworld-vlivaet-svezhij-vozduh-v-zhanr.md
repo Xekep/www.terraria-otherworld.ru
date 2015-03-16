@@ -2,6 +2,7 @@
   layout: post
   title: "Terraria: Otherworld вливает свежий воздух в жанр"
   keywords: "Terraria Otherworld, дата выхода"
+  author: "St.Art"
 ---
 
 <p>Добрый день, поклонники Террарии!</p>
