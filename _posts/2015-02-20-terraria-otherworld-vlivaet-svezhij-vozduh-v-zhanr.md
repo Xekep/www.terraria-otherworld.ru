@@ -54,4 +54,4 @@ __________
 <p>С уважением,
 Команда Re-Logic.</p>
 
-<p>Источник: <a href="http://forums.terraria.org/index.php?threads/terraria-otherworld.11627/" rel=""nofollow>http://forums.terraria.org/index.php?threads/terraria-otherworld.11627/</a></p>
+<p>Источник: <a href="http://forums.terraria.org/index.php?threads/terraria-otherworld.11627/" rel="nofollow">TCF</a></p>
