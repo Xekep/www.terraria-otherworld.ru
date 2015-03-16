@@ -12,7 +12,7 @@
 
 <div align="center"><img src="{{site.baseurl}}/images/TOW-Logo-Small.png" alt="" /></div>
 
-<p>Расширение очень популярной песочницы Terraria. Terraria: Otherworld.</p>
+<p>Расширение очень популярной песочницы Terraria - Terraria: Otherworld.</p>
 
 <p>Расположенный в другом измерении вселенной Terraria, Terraria: Otherworld посылает игрока в битву не на жизнь, а на смерть, чтобы восстановить некогда прекрасный мир - сейчас истощённый злыми силами, ввергнувшими его во мрак - в своём первозданном великолепии. Вместе с отчаянной командой выживших, сможете ли вы, используя множество оружия, магию, и даже сам мир, сорвать планы этому невидимому злу?</p>
 
@@ -28,7 +28,7 @@
 
 __________
 
-<p><b>Terraria: Otherworld Сайты и социальные медиа</b></p>
+<div align="center"><p><b>Terraria: Otherworld Сайты и социальные медиа</b></p></div>
 
 <p>Terraria: Otherworld Официальный сайт: <a href="http://www.terrariaotherworld.com/" rel="nofollow">TerrariaOtherworld.com</a></p>
 
@@ -38,10 +38,11 @@ __________
 
 __________
 
-Re-Logic социальные медиа
+<div align="center"><p><b>Re-Logic социальные медиа</b></p></div>
 
 <a href="http://facebook.com/ReLogicGames" rel="nofollow">Re-Logic Facebook Page</a>
 Re-Logic Twitter: <a href="http://twitter.com/ReLogicGames" rel="nofollow">@ReLogicGames</a>
+
 __________
 
 <p>Надеемся, что вы заинтригованы новым проектом, открывающим Террарию в абсолютно ином виде!</p>
@@ -51,4 +52,4 @@ __________
 <p>С уважением,
 Команда Re-Logic.</p>
 
-**Источник: <a href="http://forums.terraria.org/index.php?threads/terraria-otherworld.11627/" rel=""nofollow>http://forums.terraria.org/index.php?threads/terraria-otherworld.11627/</a>**
+<p>Источник: <a href="http://forums.terraria.org/index.php?threads/terraria-otherworld.11627/" rel=""nofollow>http://forums.terraria.org/index.php?threads/terraria-otherworld.11627/</a></p>
