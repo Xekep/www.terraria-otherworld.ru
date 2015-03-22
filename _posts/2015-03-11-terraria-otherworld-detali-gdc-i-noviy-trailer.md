@@ -32,7 +32,7 @@
 Terraria: Otherworld позволит игроку улучшать свои умения владением тем или иным оружием, получая от этого свои плюсы. Но стоит заметить, что выбора классов как таковых не будет, вы сможете в любой момент начать совершенствовать навыки владения совершенно разного оружия.
 
 <div align="center">
-	<img src="{{site.baseurl}}/images/posts/gdc-results/machine.png" alt="" />
+	<img src="{{site.baseurl}}/images/posts/gdc-result/machine.png" alt="" />
 </div>
 
 ###Элементы стратегии
