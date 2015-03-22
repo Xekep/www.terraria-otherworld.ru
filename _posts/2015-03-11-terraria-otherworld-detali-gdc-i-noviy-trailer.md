@@ -45,4 +45,4 @@ Terraria: Otherworld позволит игроку улучшать свои у�
 	<img src="{{site.baseurl}}/images/posts/gdc-result/tower.png" alt="" />
 </div>
 
-Источник: <a href="http://forums.terraria.org/index.php?threads/terraria-otherworld-post-gdc-details-trailer.13943/" rel="nofollow">http://forums.terraria.org/index.php?threads/terraria-otherworld-post-gdc-details-trailer.13943/</a>
+Источник: <a href="http://forums.terraria.org/index.php?threads/terraria-otherworld-post-gdc-details-trailer.13943/" rel="nofollow">TCF</a>
