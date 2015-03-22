@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: "Terraria: Otherworld - Новый подход к жанру \"Открытый мир\""
+  title: "Terraria: Otherworld - Новый подход к жанру игр с открытым миром"
   keywords: "Terraria Otherworld, дата выхода"
   author: "St.Art"
 ---
