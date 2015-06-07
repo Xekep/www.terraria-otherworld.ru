@@ -1,0 +1,129 @@
+---
+  layout: post
+
+  title: "Terraria: Otherworld - Сборник спойлеров #1"
+
+  keywords: "Terraria Otherworld, спойлеры, саундтрек"
+
+  author: "Xekep"
+
+---
+
+Привет, поклонники Террарии!
+Последнее время разработчики начали опубликовывать подробности и спойлеры об игре, которыми мы стараемся делиться с вами на страницах http://www.terraria-otherworld.ru/. Так что следите за обновлениями на нашем сайте и вступайте в <a href="https://vk.com/terraria_otherworld_ru">нашу группу Вконтакте<a/>.
+
+###April 24, 2015: Строительные материалы
+
+Разработчики усердно работали над конкретизацией строительных аспектов игры и хотели показать следующими скринщотами некоторое из того, что возможно сделать с  использованием добавленных на данный момент материалов.
+
+<div align="center">
+
+<a class="fancybox" rel="gallery1" href="{{site.baseurl}}/images/posts/sbornik-spoilerov/building-materials-1.png" title="Строительные материалы">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/building-materials-1_m.png" alt="" />
+
+</a>
+
+<a class="fancybox" rel="gallery1" href="{{site.baseurl}}/images/posts/sbornik-spoilerov/building-materials-2.png" title="Строительные материалы">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/building-materials-2_m.png" alt="" />
+
+</a>
+
+</div>
+
+###May 1, 2015: Концепт-арт врагов в биоме Corruption
+
+<div align="center">
+
+<a class="fancybox" rel="gallery1" href="{{site.baseurl}}/images/posts/sbornik-spoilerov/Corruption-foes-spoiler.png" title="Враги в биоме Corruption">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/Corruption-foes-spoiler_m.png" alt="" />
+
+</a>
+
+</div>
+
+Был представлен концепт-арт для нескольких знакомых из Terraria врагов и некоторых новых.
+
+
+###May 8, 2015: Старое оружие - Миниакула
+
+<div align="center">
+
+<a class="fancybox" rel="gallery1" href="{{site.baseurl}}/images/posts/sbornik-spoilerov/Ancient-Minishark-Spoiler.png" title="Миниакула">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/Ancient-Minishark-Spoiler_m.png" alt="" />
+
+</a>
+
+</div>
+
+Миниакула (англ. Minishark) - оружие, одно из немногих, которое достанется по наследству Terraria: Otherworld от Terraria. 
+
+<blockquote>So, which Minishark is your favorite? Left or Right? What other Legacy Weapons might be buried out in the wastelands of Otherworld’s Corruption?</blockquote>
+
+Разработчики предлагают сообществу выбрать вид миниакулы в новой игре. Какая миниакула вам больше по дуще? Слева или справа?
+
+<div align="center">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/Left-or-Right-Minishark.png" alt="" />
+
+</div>
+
+###May 15, 2015: Арктический биом
+
+<div align="center">
+
+<a class="fancybox" rel="gallery1" href="{{site.baseurl}}/images/posts/sbornik-spoilerov/arctic-biome.png" title="Арктический биом">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/arctic-biome_m.png" alt="" />
+
+</a>
+
+</div>
+
+В связи с тенденцией к повышению средней температуры земли, разработчики решили немного охладить нас опубликовав скриншот Арктичсеского биома Terraria: Otherworld.
+
+###May 22, 2015: Первый НИП раскрыт
+
+<div align="center">
+
+<a class="fancybox" rel="gallery1" href="{{site.baseurl}}/images/posts/sbornik-spoilerov/first-npc.png" title="Загадочное существо похожее на улитку">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/first-npc_m.png" alt="" />
+
+</a>
+
+</div>
+
+Один из новых дружественных NPC новой Terraria - загадочное существо похожее на улитку.
+
+<div align="center">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/SMLLoop.gif" alt="" />
+
+</div>
+
+###May 29, 2015: Новый интерфейс для крафтинга
+
+<div align="center">
+
+<a class="fancybox" rel="gallery1" href="{{site.baseurl}}/images/posts/sbornik-spoilerov/crafty.png" title="овый интерфейс для крафтинга">
+
+	<img src="{{site.baseurl}}/images/posts/sbornik-spoilerov/crafty_m.png" alt="" />
+
+</a>
+
+</div>
+
+В нашем распоряжении будет обновленный интерфейс крафтинга, который позволит добавлять в избранное некоторые рецепты, что даст более быстрый и легкий доступ для изготовления самых необходимых предметов.
+
+###June 5, 2015: Анонс саундтрека Terraria: Otherworld
+
+Горстка биомов, которые мы встретим в Terraria: Otherworld в сопровождении эпического саундтрека из игры.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93fxc8SCF3g" frameborder="0" allowfullscreen></iframe>
+
+По словам разработчиков, музыка и звук задают тон и атмосферу в Terraria и в Terraria: Otherworld будет продолжена эта традиция.
+
