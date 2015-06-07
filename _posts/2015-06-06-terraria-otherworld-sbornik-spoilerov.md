@@ -64,7 +64,7 @@
 
 <blockquote>So, which Minishark is your favorite? Left or Right? What other Legacy Weapons might be buried out in the wastelands of Otherworld’s Corruption?</blockquote>
 
-Разработчики предлагают сообществу выбрать вид миниакулы в новой игре. Какая миниакула вам больше по дуще? Слева или справа?
+Какая миниакула вам больше по дуще? Слева или справа? Разработчики спрашивают у сообщества: какое еще оружие может быть погребено в пустоши искажения в Terraria: Otherworld? 
 
 <div align="center">
 
