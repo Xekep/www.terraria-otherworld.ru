@@ -1,7 +1,7 @@
 ---
   layout: post
 
-  title: "Terraria: Otherworld - Сборник спойлеров #1"
+  title: "Terraria: Otherworld - Сборник спойлеров"
 
   keywords: "Terraria Otherworld, спойлеры, саундтрек"
 
