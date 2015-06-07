@@ -3,7 +3,7 @@
 
   title: "Terraria: Otherworld - Сборник спойлеров"
 
-  keywords: "Terraria Otherworld, спойлеры, саундтрек"
+  keywords: "Terraria Otherworld, спойлеры, саундтрек, крафт"
 
   author: "Администратор"
 
