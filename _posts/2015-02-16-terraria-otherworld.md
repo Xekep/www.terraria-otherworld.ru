@@ -29,5 +29,5 @@
 <p>В данный момент дата выхода нам неизвестна, но разработчики обещали предоставить много больше информации на Game Delevopers Conference 2015 в Сан-Франциско, которая начнется в начале марта и продлится несколько дней.</p>
 
 <div class="video-wrapper">
-  <iframe width="600" height="400" frameborder="none" src="http://www.youtube.com/embed/RCXk_ZCgxJI" allowfullscreen="allowfullscreen="> </iframe>
+  <iframe width="600" height="400" frameborder="none" src="https://www.youtube.com/embed/RCXk_ZCgxJI" allowfullscreen="allowfullscreen="> </iframe>
 </div>
