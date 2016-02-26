@@ -13,7 +13,7 @@
 
 <p>Действие игры разворачивается в альтернативном измерении в пределах вселенной Terraria.</p>
 
-<div align="center"><iframe src="http://widgets.ign.com/video/embed/content.html?url=http://www.ign.com/videos/2015/02/17/terraria-otherworld-announcement-teaser-trailer" width="468" height="263" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RCXk_ZCgxJI" frameborder="0" allowfullscreen></iframe></div>
 
 <p>На видео можно увидеть тёмную, более научно-фантастическую атмосферу, в отличии от оригинальной Terraria с 
 её фэнтезийным RPG сеттингом. Тёмные краски мира напоминают искажение оригинальной игры и результат победы злых сил над девственным миром Otherworld.</p>
