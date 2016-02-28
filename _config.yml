@@ -2,3 +2,4 @@ site:
 baseurl: "https://www.terraria-otherworld.ru"
 description: "Русскоязычный сайт игры Terraria: Otherworld"
 google_analytics: "UA-41002897-2"
+disqus_shortname: terraria
