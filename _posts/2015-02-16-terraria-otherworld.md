@@ -3,6 +3,7 @@
   title: "Анонсирована Terraria: Otherworld"
   description: ""
   keywords: "Terraria Otherworld, дата выхода"
+  redirect_to: /:title.html
 ---
 
 <p>Компании Re-Logic и Engine Software объединили усилия для разработки <b>Terraria: Otherworld</b> — Sandbox платформера-новеллы, которая сочетает в себе элементы ролевой игры, стратегии и песочницы.</p>
