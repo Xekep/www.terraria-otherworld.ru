@@ -1,0 +1,23 @@
+{% include head.html %}
+<body>
+  
+  {% include header.html %}
+
+  <div class="page-title-bar">
+    <div class="inner-content">
+      <h2>{{ page.title }}</h2>
+    </div>
+  </div>
+
+  <div class="page-type-subnav">
+    <div id="blog-single">
+      <article>
+        {{ content }}
+      </article>
+    </div>
+  </div>
+
+  {% include footer.html %}
+
+</body>
+</html>
