@@ -1,0 +1,71 @@
+---
+  layout: page
+  title: "Сервер Terraria: Otherworld"
+  description: "Скачать Terraria: Otherworld"
+  keywords: "Terraria: Otherworld, , сервера, servers, мультиплеер, multiplayer"
+---
+
+<div class="glitch" data-text="GLITCH">Terraria: Otherworld</div> 
+
+Мультиплеер в Terraria является неотъемлемой частью игры. Во многом благодаря 
+
+<style type="text/scss">
+@import "compass/css3";
+
+.glitch{
+  color:white;
+  font-size:0px;
+  position:relative;
+  width:500px;
+  height:306px;
+  margin:0 auto;
+  text-indent:-999em;
+  background:transparent url({{site.baseurl}}/images/TOW_Transparent_Logo_Small.png) center center no-repeat;
+}
+@keyframes noise-anim{
+  $steps:20;
+  @for $i from 0 through $steps{
+    #{percentage($i*(1/$steps))}{
+      clip:rect(random(654)+px,9999px,random(654)+px,0);
+    }
+  }
+}
+.glitch:after{
+  content:'';
+  width:100%;
+  height:100%;
+  position:absolute;
+  left:2px;
+  top:0;
+  overflow:hidden;
+  clip:rect(0,900px,0,0); 
+  animation:noise-anim 2s infinite linear alternate-reverse;
+  background:inherit;
+  -webkit-filter: hue-rotate(90deg);
+  filter: hue-rotate(90deg);
+}
+
+@keyframes noise-anim-2{
+  $steps:20;
+  @for $i from 0 through $steps{
+    #{percentage($i*(1/$steps))}{
+      clip:rect(random(100)+px,9999px,random(100)+px,0);
+    }
+  }
+}
+
+.glitch:before{
+  content: '';
+  width:100%;
+  height:100%;
+  position:absolute;
+  left:-2px;
+  top:0;
+  overflow:hidden;
+  clip:rect(0,900px,0,0); 
+  animation:noise-anim-2 3s infinite linear alternate-reverse;
+  background:inherit;
+  -webkit-filter: hue-rotate(300deg);
+  filter: hue-rotate(300deg);
+}
+</style>
