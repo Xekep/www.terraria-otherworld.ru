@@ -1,4 +1,5 @@
 ---
+layout: nil
 permalink: /robots.txt
 ---
 User-Agent: *
