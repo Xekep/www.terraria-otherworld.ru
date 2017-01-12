@@ -12,8 +12,8 @@
 Для того, чтобы продвигаться по сюжетной линии, игроку предстоит найти, скрафтить и активировать очистительные башни, которые будут защищать мир от искажения. После активации, башни будут привлекать врагов, а это значит, что игроку предстоит построить поблизости еще боевые башни для их защиты.
 
 <div align="center">
-<a class="fancybox" rel="gallery1" href="{{site.baseurl}}images/posts/tower-defense-gameplay/tow_TUI.png" title="Terraria: Otherworl кастомизация башни">
-	<img src="{{site.baseurl}}images/posts/tower-defense-gameplay/tow_TUI_m.png" alt="" />
+<a class="fancybox" rel="gallery1" href="{{site.base_path}}images/posts/tower-defense-gameplay/tow_TUI.png" title="Terraria: Otherworl кастомизация башни">
+	<img src="{{site.base_path}}images/posts/tower-defense-gameplay/tow_TUI_m.png" alt="" />
 </a>
 </div>
 
