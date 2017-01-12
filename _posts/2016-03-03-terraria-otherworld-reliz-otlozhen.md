@@ -5,7 +5,7 @@
   author: "Администратор"
 ---
 
-<div align="center"><img src="{{site.baseurl}}/images/posts/TOW-Logo-Small.png" alt="" /></div>
+<div align="center"><img src="{{site.baseurl}}images/posts/TOW-Logo-Small.png" alt="" /></div>
 
 Как вы, вероятно, уже поняли, релиз <b>Terraria: Otherworld</b> не состоялся в запланированном 2015 году. Проще говоря, разработчики посчитали, что игра еще не была готова, так как не соответствовала стандартам качества готового продукта.
 
