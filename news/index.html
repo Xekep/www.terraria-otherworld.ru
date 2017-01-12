@@ -11,7 +11,7 @@
 
 <div id="blog">
   <div id="blog-content">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <article>
       <header>
         <h1><a href="{% unless site.baseurl == "/" %}{{ site.baseurl }}{% endunless %}{{ post.url }}">{{ post.title }}</a></h1>
