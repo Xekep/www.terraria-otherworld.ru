@@ -3,9 +3,13 @@ baseurl: "https://www.terraria-otherworld.ru"
 description: "Русскоязычный сайт игры Terraria: Otherworld"
 google_analytics: "UA-41002897-2"
 disqus_shortname: terraria
-paginate: 5
-paginate_path: "/news:num.html"
 
-gems: [jekyll-paginate]
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  
+paginate: 5
+paginate_path: "/news:num/"
 
 exclude: [ "config.rb", "CNAME", "README.md"]
