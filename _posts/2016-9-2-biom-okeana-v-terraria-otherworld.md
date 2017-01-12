@@ -17,6 +17,7 @@
 <a class="fancybox" rel="gallery1" href="/images/posts/biom-okeana-v-terraria-otherworld/OceanBiome_screenshot02.png" title="Биом океана в Terraria Otherworld">
 	<img src="/images/posts/biom-okeana-v-terraria-otherworld/OceanBiome_screenshot02_m.png" alt="" />
 </a>
+</div>
 
 Ах, да... Как вы можете видеть, мультиплеер работает.
 
