@@ -90,22 +90,3 @@
 #disqus_thread {
   max-width: 600px;
 }
-
-// Pagination
-.pagination {margin:20px 10px;text-align:center;}
-.pagination ul{display:inline;margin-left:10px;margin-right:10px;}
-.pagination li{padding-left:4px;padding-right:4px}
-.pagination .btn {
-  display: inline-block;
-  margin-bottom: 20px;
-  padding: 8px 20px;
-  font-size: .875rem;
-  background-color: #579E8C;
-  color: #fff;
-  border-width: 2px !important;
-  border-style: solid !important;
-  border-color: #579E8C;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-}
