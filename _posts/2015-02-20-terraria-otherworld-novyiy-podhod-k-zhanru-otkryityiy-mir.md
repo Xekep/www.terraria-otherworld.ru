@@ -11,7 +11,7 @@
 
 Ну, что ж, пришло время откровений. Без лишних церемоний, мы представляем Вашему вниманию...
 
-<div align="center"><img src="{{site.baseurl}}images/posts/TOW-Logo-Small.png" alt="" /></div>
+<div align="center"><img src="{{site.base_path}}images/posts/TOW-Logo-Small.png" alt="" /></div>
 
 Расширение очень популярной песочницы Terraria - Terraria: Otherworld.
 
