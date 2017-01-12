@@ -7,3 +7,5 @@ paginate: 5
 
 gems:
   - jekyll-paginate
+
+exclude: [ "config.rb", "CNAME", "README.md"]
