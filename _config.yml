@@ -11,7 +11,4 @@ gems:
 paginate: 5
 paginate_path: "/news/page:num/"
 
-feed:
-  path: atom.xml
-
 exclude: [ "config.rb", "CNAME", "README.md", "Gemfile"]
