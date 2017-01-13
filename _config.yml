@@ -9,6 +9,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-compass
   
 sass:
   sass_dir: _scss
