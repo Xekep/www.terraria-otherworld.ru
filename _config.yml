@@ -10,6 +10,10 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   
+sass:
+  sass_dir: _scss
+  style: :compressed
+  
 paginate: 5
 paginate_path: "/news/page:num/"
 
