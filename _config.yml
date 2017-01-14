@@ -9,12 +9,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-compass
-  
-sass:
-  sass_dir: scss
-  style: :compressed
-  
+
 paginate: 5
 paginate_path: "/news/page:num/"
 
