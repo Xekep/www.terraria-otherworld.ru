@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'sass', '3.4.5'
+gem 'sass'
 gem 'susy'
-gem 'jekyll-sitemap'
+gem 'compass'
