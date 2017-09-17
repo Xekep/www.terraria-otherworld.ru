@@ -25,7 +25,7 @@
 Хотите пример? Что ж, мы поняли, что динамика сражения в Святых землях и Искажении не столь опасна, и поэтому было решено переделать её:
 
 <div align="center">
-<a class="fancybox" rel="gallery1" href="/images/posts/noviye-spoilery-terraria-otherworld/TOW_Screen1.png" title="Скриншот">
+<a class="fancybox" rel="gallery1" href="/images/posts/noviye-spoilery-terraria-otherworld/TOW_Screen1.png" title="Скриншот 1">
 	<img src="/images/posts/noviye-spoilery-terraria-otherworld/TOW_Screen1_m.png" alt="" />
 </a>
 </div>
@@ -33,7 +33,7 @@
 Мы также сфокусированы на воссоздании других биомов, чтобы вы могли почувствовать их глубже и разнообразнее, а также вложили много сил в систему улучшения оружия:
 
 <div align="center">
-<a class="fancybox" rel="gallery1" href="/images/posts/noviye-spoilery-terraria-otherworld/TOW_Screen2.png" title="Скриншот">
+<a class="fancybox" rel="gallery1" href="/images/posts/noviye-spoilery-terraria-otherworld/TOW_Screen2.png" title="Скриншот 2">
 	<img src="/images/posts/noviye-spoilery-terraria-otherworld/TOW_Screen2_m.png" alt="" />
 </a>
 </div>
@@ -43,6 +43,6 @@
 ### Что же дальше? 
 
 Мы будем работать рука об руку вместе с Engine Software, чтобы сохранить динамику разработки в ближайшие недели и месяцы. Мы уверены в этом новом подходе, и будьте уверены, мы будем тесно связаны, чтобы Terraria: Otherworld стала проектом, по-настоящему достойным Terraria. 
-Мы не можем сказать вам дату, приоритет, в первую очередь на том, чтобы сделать игру качественно. Это говорит о том, что нам предстоит огромное количество работы, чтобы сне только сделать игру, но и качественно доработать её. Как только мы узнаем больше, мы сообщим вам, так что ждите спойлеров."
+Мы не можем сказать вам дату, приоритет, в первую очередь на том, чтобы сделать игру качественно. Это говорит о том, что нам предстоит огромное количество работы, чтобы сне только сделать игру, но и качественно доработать её. Как только мы узнаем больше, мы сообщим вам, так что ждите спойлеров.
 
 Источник: <a href="https://forums.terraria.org/index.php?threads/terraria-otherworld-bringing-you-up-to-speed.47302/" rel="nofollow">TCF</a>
